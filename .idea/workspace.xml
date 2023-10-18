@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95fcfc66-23f9-41c4-a063-e245770ac413" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boletin_1.6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculadoraPotencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContadorCifras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuegoAdivinaNumero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VerificarNumeroPrimo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rffff.java" afterDir="false" />
+    <list default="true" id="95fcfc66-23f9-41c4-a063-e245770ac413" name="Changes" comment="tupmarte">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +40,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "onboarding.tips.debug.path": "C:/Users/Alumno/IdeaProjects/boletin_1.6/src/Main.java",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,7 +52,29 @@
       <option name="presentableId" value="Default" />
       <updated>1697614307615</updated>
     </task>
+    <task id="LOCAL-00001" summary="tupmarte">
+      <option name="closed" value="true" />
+      <created>1697619933041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697619933041</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tupmarte">
+      <option name="closed" value="true" />
+      <created>1697619989806</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697619989806</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="f" />
+    <MESSAGE value="tupmarte" />
+    <option name="LAST_COMMIT_MESSAGE" value="tupmarte" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
