@@ -20,12 +20,12 @@ public class MaximoComunDivisor {
     }
 
     // Método para calcular el MCD utilizando el algoritmo de Euclides
-    public static int calcularMCD(int a, int b) {
-        while (b != 0) {
-            int temp = b;
-            b = a % b;
-            a = temp;
+    public static int calcularMCD(int numero1, int numero2) {
+        while (numero2 != 0) {
+            int temp = numero2;
+            numero2 = numero1 % numero2;
+            numero1 = temp;
         }
-        return a;
+        return numero1;
     }
 }
